@@ -20,3 +20,42 @@ h1,h2,h3,h4,h5,h6 {
 img {
 	vertical-align: top;
 }
+
+
+.navigation {}
+
+.menu {
+	color: darkblue;
+}
+
+.navigation .mainnav {
+	color: darkcyan;
+}
+
+.nazvanie {
+	color: darkred;
+}
+
+.zagolovok {
+	color: red;
+}
+
+.top {
+	color: cyan;
+}
+
+.razdel {
+	color: green;
+}
+
+.razdel .podzagolovok {
+	color: blueviolet;
+}
+
+li.list {
+	color: forestgreen;
+}
+
+.podrazdel {
+	color: blue;
+}
